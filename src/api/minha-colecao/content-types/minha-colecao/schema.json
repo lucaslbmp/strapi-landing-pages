@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "minha_colecaos",
+  "info": {
+    "singularName": "minha-colecao",
+    "pluralName": "minha-colecaos",
+    "displayName": "Item"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "item_name": {
+      "type": "string"
+    },
+    "item_description": {
+      "type": "text"
+    }
+  }
+}
